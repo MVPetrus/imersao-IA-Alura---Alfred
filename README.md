@@ -1,6 +1,6 @@
 # Alfred - Seu Parceiro Estoico e Amigo na Jornada de Autodesenvolvimento
 
-[http://googleusercontent.com/image_generation_content/4](http://googleusercontent.com/image_generation_content/4) Imagine ter um assistente pessoal, inteligente como o Jarvis do Ironman, mas com a calma sabedoria dos filósofos estoicos e a empatia de um grande amigo. Esse é o Alfred.
+Imagine ter um assistente pessoal, inteligente como o Jarvis do Ironman, mas com a calma sabedoria dos filósofos estoicos e a empatia de um grande amigo. Esse é o Alfred.
 
 Nosso objetivo com Alfred é criar uma parceria entre o ser humano e a inteligência artificial para ajudar as pessoas a encontrarem um rumo e a melhorarem em diversas áreas da vida, com apoio constante para não desistir.
 
